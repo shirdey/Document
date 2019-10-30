@@ -1,71 +1,80 @@
-<mxfile host="www.draw.io" modified="2019-10-30T02:05:58.741Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="WWjo5FbTL2EwAny0z15B" version="12.1.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-30T02:08:46.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="LiuvXT0jye7--02wRaiP" version="12.1.8" type="github" pages="1">
   <diagram id="rL1kTkCzrG9tQmhYl5_u" name="Page-1">
     <mxGraphModel dx="946" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="600" height="360" as="geometry"/>
+        </mxCell>
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="130" width="440" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="210" width="440" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="440" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="440" height="110" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-5" value="区块" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-5" value="区块" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="220" y="370" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-6" value="链式结构" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-6" value="链式结构" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="360" y="370" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-7" value="Hash算法" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-7" value="Hash算法" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="500" y="370" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-8" value="非对称加密" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-8" value="非对称加密" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="220" y="420" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-9" value="merkle树" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-9" value="merkle树" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="360" y="420" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-10" value="数字签名" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-10" value="数字签名" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="500" y="420" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-11" value="POW" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-11" value="POW" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="213" y="220" width="87" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-12" value="POS" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-12" value="POS" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="320" y="220" width="90" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-13" value="DPOS" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-13" value="DPOS" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="425" y="220" width="100" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="pysRgb6L1sIa9TWmlkjW-14" value="数据层" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="60" y="410" width="130" height="20" as="geometry"/>
+          <mxGeometry x="60" y="400" width="130" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="pysRgb6L1sIa9TWmlkjW-15" value="网络层" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="60" y="300" width="130" height="20" as="geometry"/>
+          <mxGeometry x="60" y="290" width="130" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="pysRgb6L1sIa9TWmlkjW-16" value="共识层" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="60" y="225" width="130" height="20" as="geometry"/>
+          <mxGeometry x="60" y="220" width="130" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="pysRgb6L1sIa9TWmlkjW-17" value="应用层" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="60" y="150" width="130" height="20" as="geometry"/>
+          <mxGeometry x="60" y="140" width="130" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-18" value="PBET" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-18" value="PBET" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="535" y="220" width="100" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-19" value="P2P网络" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-19" value="P2P网络" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="220" y="290" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-20" value="传播机制" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-20" value="传播机制" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="360" y="290" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pysRgb6L1sIa9TWmlkjW-21" value="认证机制" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-21" value="认证机制" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-22" value="数字货币" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="pysRgb6L1sIa9TWmlkjW-23" value="分布式记账" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="140" width="120" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
