@@ -1,1 +1,95 @@
-<mxfile host="www.draw.io" modified="2020-04-01T02:17:37.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="4N_j55hT1VaCQTcoA84E" version="12.9.5" type="github"><diagram id="Zh2QiRvOW6fRDHmnIyD_" name="Page-1">7Vptk+omFP41fOxOgLzAx8SN93am7eyMM+2236JBTW8MNuJd7a8vJERFcN2txvXeVmccOEASnuccOA8G4MFi86nOlvOfec5KgLx8A/AjQIj6ofxVhm1rCCBtDbO6yFsT3BtGxd9MG/W42brI2croKDgvRbE0jRNeVWwiDFtW1/zF7DblpXnXZTZjlmE0yUrb+luRi3lrJSja2z+zYjbv7gxDPb9F1nX2WsNqnuX85cCEU4AHNeeiLS02A1Yq7Dpc2nHDE627B6tZJd4yoFr8WD6NB09fguIvMnz+nM23/g/dZb5m5VrPWD+t2HYQ1Hxd5UxdxQM4eZkXgo2W2US1vkjOpW0uFqWsQVmc8kpoFqGcYpJnq3kzVjXqe7FasM3JWcAdNtKnGF8wUW9ll25ApB1D+xNEpK2/7NnBWPeZHzCDiSYm0x4x2117D5osaNzeg6H3jWPYTeAchBT1hKDDCdMQ0AGIByANVCHxQBqBGAMCVYEmgBLVFD/qAkEgJq/ADt8Ae1GWA17yuhmL84CR3Jf2laj5F3bQQtAYh+GVuOhA1Vz4IbTIgNCzyfC9vtzZQUYEEgl0A32SKD6+B+gxhXcGPbagT9bTKauvCu50OkWTiQvcPByHQV9+DZG9yLjAxX2B679nlX4/rAxKr41csNIwwllPsGLP9lknrNDrC9fAwjXdCP8ybK+AFPKOkHJEd3BL/wstnJ6Ho4+HKbwzmCILpj/uACaM7gwmYsH0sPtYaMl5CxMSc5GqeMWOVjRtyspiVsnqROIk9yGcKBQLKY9i3bAo8lzdxsmBmfVegwbimTRENg2+gwbUFw3UouGXO/BWH5kJvstbXTD15q3wRIYfAhKB1FdJZRI22SVWZZ1mDu/UkQ/12ZX2dUSPGPMiizHi39Cxu3TNYIwASgGNFXWk4ectHKZDkAwAIb/KwNBlelmEHOvjY/WQMTJ1JrjhhLDx9EqMReZShByMQeQIMtIbZbZ80Fo5TpVOUxIuACkFMQQJbQgaAIr3Wq5PUm6jOnzvmJTQIoW6Dod6O9lwqA4FvA9i1HAyaDghgMRKR8sm+ftfISfwP5gcW7p04RF8lwwcq8fdhn/AQBg8BLfkwJZFrj2EqBNAgpv1zL/8uOkMGYH6OjeQ5qOvcGBvP/2QBEPH8aznyAV64wjZap7lMzbSVV6LOZ/xKivTvfUoZdr3+YnzpabhTybEVvOQrQU3SZJw1dtnNf4BBV39d329pvK4MWpbR3qGbK6GQ4MrNZPXmZIT5+t6wl7zYr33i6yeMXHW3W3ua1ZmovhqPomLyGZoXNfZ9qDDkheVWB1c+UkZDkU+MVxKr7LDf9VdFtr77x1qN5EL1gFb9zf7Y6zifRf16j8AonLPtonYCuGqieRNjqGRZ6LdhfFBuKPglttiJx4/LNyjuw93etfh7iMz0er+Iz0V72f69xTw9tFJF/BNzkWa/5yUwAzU3t9v8sXCE8lXRMfe1c6uzH09Cqw4h/Cm27pL4u9WWinrZdIVNUsuVbTIzJg2yuX+D2XOLwMXrtiRwSSxlX/oyKF7O6tBLuEvI0hSGCgiYw8k5H8iz2+9rpdJrsSkrO5f9WnX0P37Ujj9Bw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-04-01T05:43:01.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="b-psurdp481CqariQsm5" version="12.9.5" type="github">
+  <diagram id="Zh2QiRvOW6fRDHmnIyD_" name="Page-1">
+    <mxGraphModel dx="946" dy="519" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="176" y="128" width="336" height="496" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="176" y="20" width="336" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-1" value="本地磁盘存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="192" y="565" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-2" value="网络存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="380" y="565" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-3" value="块设备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="192" y="412" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="192" y="301" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-5" value="Ext4" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="202" y="361" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-6" value="XFS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="262" y="361" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-7" value="ZFS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="322" y="361" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-8" value=".........." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="371" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-9" value="NFS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="426" y="361" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-11" value="文件系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="296" y="307" width="84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-12" value="虚拟文件系统（VFS）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="270" y="207" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-13" value="目录项缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="400" y="206" width="96" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-14" value="索引节点缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="400" y="254" width="96" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-15" value="页缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="192" y="230" width="65.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-16" value="系统调用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="192" y="160" width="304" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#FF3333;" parent="1" source="nmIlPbCPk5iq8FXHahy4-17" target="nmIlPbCPk5iq8FXHahy4-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="268" y="96" />
+              <mxPoint x="268" y="96" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-17" value="应用程序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="208" y="32" width="256" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#FF3333;" parent="1" source="nmIlPbCPk5iq8FXHahy4-19" target="nmIlPbCPk5iq8FXHahy4-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="128" />
+              <mxPoint x="420" y="128" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-19" value="库函数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="382" y="75" width="114" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-22" value="用户空间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="207" y="87" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nmIlPbCPk5iq8FXHahy4-23" value="内核空间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="208" y="128" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a-L2SMzfN0Pr7LXbtjmA-2" value="Buffer Cache" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="192" y="464" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a-L2SMzfN0Pr7LXbtjmA-3" value="设备驱动程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="192" y="512" width="310" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
