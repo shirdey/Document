@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-16T01:11:58.041Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="myHddB3reQK49Omsp4yo" version="12.9.11" type="github">
+<mxfile host="www.draw.io" modified="2020-04-16T01:12:56.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="j31xz2CQClx8aW9boPiR" version="12.9.11" type="github">
   <diagram id="Zh2QiRvOW6fRDHmnIyD_" name="Page-1">
     <mxGraphModel dx="946" dy="519" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,6 +147,15 @@
         </mxCell>
         <mxCell id="Xs-aRcT-grCkEEm_3WZL-7" value="磁盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="371" width="288" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs-aRcT-grCkEEm_3WZL-16" value="Buffer I/O" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="81" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs-aRcT-grCkEEm_3WZL-17" value="mmap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="606" y="117" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs-aRcT-grCkEEm_3WZL-18" value="Director IO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="704" y="140" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
